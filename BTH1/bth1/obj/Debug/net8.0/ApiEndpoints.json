@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HelloWorldController",
+    "Method": "GetHelloWorld",
+    "RelativePath": "api/HelloWorld",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
