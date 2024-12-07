@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\data\\reportingdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\data\\reportingdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\models\\orderreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\models\\orderreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\models\\productreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\models\\productreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\reportingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\reportingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|c:\\users\\acer\\desktop\\dotnet\\reportingservice\\reportingservice\\migrations\\20241206020425_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F0761E-C0BB-4BCD-9F79-04971C88C01C}|ReportingService\\ReportingService.csproj|solutionrelative:reportingservice\\migrations\\20241206020425_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9b96d899-3214-4b6f-a8b9-182d4bc2f76f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportingService.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\ReportingService.csproj",
+              "RelativeDocumentMoniker": "ReportingService\\ReportingService.csproj",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\ReportingService.csproj",
+              "RelativeToolTip": "ReportingService\\ReportingService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T02:16:37.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "ReportingService\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "ReportingService\\Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:13:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Data\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "ReportingService\\Data\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Data\\DatabaseInitializer.cs",
+              "RelativeToolTip": "ReportingService\\Data\\DatabaseInitializer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:08:29.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241206020425_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Migrations\\20241206020425_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ReportingService\\Migrations\\20241206020425_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Migrations\\20241206020425_InitialCreate.cs",
+              "RelativeToolTip": "ReportingService\\Migrations\\20241206020425_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:04:25.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderReport.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Models\\OrderReport.cs",
+              "RelativeDocumentMoniker": "ReportingService\\Models\\OrderReport.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Models\\OrderReport.cs",
+              "RelativeToolTip": "ReportingService\\Models\\OrderReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:03:44.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportingDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Data\\ReportingDbContext .cs",
+              "RelativeDocumentMoniker": "ReportingService\\Data\\ReportingDbContext .cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Data\\ReportingDbContext .cs",
+              "RelativeToolTip": "ReportingService\\Data\\ReportingDbContext .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:01:55.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Program.cs",
+              "RelativeDocumentMoniker": "ReportingService\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Program.cs",
+              "RelativeToolTip": "ReportingService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:01:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductReport.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Models\\ProductReport.cs",
+              "RelativeDocumentMoniker": "ReportingService\\Models\\ProductReport.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\Models\\ProductReport.cs",
+              "RelativeToolTip": "ReportingService\\Models\\ProductReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:00:47.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\appsettings.json",
+              "RelativeDocumentMoniker": "ReportingService\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\ReportingService\\ReportingService\\appsettings.json",
+              "RelativeToolTip": "ReportingService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T01:57:08.822Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
