@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+
+    <!-- Liên kết tới tệp CSS -->
+    <link href="~/wwwroot/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>Ứng dụng Quản lý Đơn hàng</h1>
+    </header>
+
+    <div class="container">
+        <h2>@ViewData["Title"]</h2>
+        <p>Chào mừng đến với Trang Chủ!</p>
+        <p>Đây là trang chủ của ứng dụng Order Management, nơi bạn có thể quản lý các đơn hàng của mình.</p>
+    </div>
+
+    <footer>
+        <p>© 2024 Order Management Service</p>
+    </footer>
+
+    <!-- Liên kết tới tệp JavaScript -->
+    <script src="~/wwwroot/js/script.js"></script>
+</body>
+</html>

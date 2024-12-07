@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Dotnet\\KTHDV_SOA\\OrderManagementService\\OrderManagementService\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Dotnet\\KTHDV_SOA\\OrderManagementService\\OrderManagementService\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OrderManagementService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OrderManagementService.props",
+      "PackagePath": "build\\OrderManagementService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OrderManagementService.props",
+      "PackagePath": "buildMultiTargeting\\OrderManagementService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OrderManagementService.props",
+      "PackagePath": "buildTransitive\\OrderManagementService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

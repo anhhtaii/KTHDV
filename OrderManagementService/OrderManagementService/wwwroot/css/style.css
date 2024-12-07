@@ -1,0 +1,75 @@
+﻿/* Reset margin và padding cho tất cả các phần tử */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Cấu hình nền và font cho body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9; /* Nền sáng để dễ nhìn */
+    margin: 0;
+    padding: 0;
+}
+
+/* Định dạng header */
+header {
+    background-color: #0044cc; /* Màu nền xanh dương cho header */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Định dạng main content */
+.container {
+    max-width: 1200px; /* Giới hạn chiều rộng của nội dung */
+    margin: 30px auto; /* Căn giữa với khoảng cách trên và dưới */
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px; /* Bo góc nhẹ */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Thêm bóng đổ */
+}
+
+/* Định dạng tiêu đề chính */
+h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+/* Định dạng đoạn văn bản */
+p {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6; /* Tăng chiều cao dòng để dễ đọc */
+}
+
+/* Định dạng footer */
+footer {
+    background-color: #0044cc;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+/* Đảm bảo các tệp tĩnh (CSS, JS, hình ảnh) không bị lỗi khi sử dụng responsive */
+@media (max-width: 768px) {
+    .container {
+        margin: 15px; /* Thay đổi margin cho màn hình nhỏ */
+        padding: 15px; /* Thay đổi padding cho màn hình nhỏ */
+    }
+
+    h2 {
+        font-size: 28px; /* Giảm kích thước font cho tiêu đề trên màn hình nhỏ */
+    }
+
+    p {
+        font-size: 16px; /* Giảm kích thước font cho đoạn văn bản trên màn hình nhỏ */
+    }
+}

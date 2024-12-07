@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "IUl5V2y2dFnxAIpR3yCwNifQRfLUqdPSdi5A/pDN4NU=",
+  "Source": "OrderManagementService",
+  "BasePath": "_content/OrderManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrderManagementService\\wwwroot",
+      "Source": "OrderManagementService",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Dotnet\\KTHDV_SOA\\OrderManagementService\\OrderManagementService\\wwwroot\\",
+      "BasePath": "_content/OrderManagementService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\acer\\Desktop\\Dotnet\\KTHDV_SOA\\OrderManagementService\\OrderManagementService\\wwwroot\\css\\style.css",
+      "SourceId": "OrderManagementService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Dotnet\\KTHDV_SOA\\OrderManagementService\\OrderManagementService\\wwwroot\\",
+      "BasePath": "_content/OrderManagementService",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\acer\\Desktop\\Dotnet\\KTHDV_SOA\\OrderManagementService\\OrderManagementService\\wwwroot\\js\\script.js",
+      "SourceId": "OrderManagementService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\Dotnet\\KTHDV_SOA\\OrderManagementService\\OrderManagementService\\wwwroot\\",
+      "BasePath": "_content/OrderManagementService",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}
