@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\acer\\desktop\\dotnet\\quanlykhachsan\\quanlykhachsan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\acer\\desktop\\dotnet\\quanlykhachsan\\quanlykhachsan\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\acer\\desktop\\dotnet\\quanlykhachsan\\quanlykhachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\acer\\desktop\\dotnet\\quanlykhachsan\\quanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\acer\\desktop\\dotnet\\quanlykhachsan\\quanlykhachsan\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\acer\\desktop\\dotnet\\quanlykhachsan\\quanlykhachsan\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\acer\\desktop\\dotnet\\quanlykhachsan\\quanlykhachsan\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\acer\\desktop\\dotnet\\quanlykhachsan\\quanlykhachsan\\quanlykhachsan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58778873-AB53-4129-9F27-E02FDD4EC9AC}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\quanlykhachsan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9b96d899-3214-4b6f-a8b9-182d4bc2f76f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:49:00.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Program.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:48:13.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:47:40.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Helper\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Helper\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Helper\\JwtHelper.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Helper\\JwtHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:46:35.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:45:50.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\Models\\User.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:45:09.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\appsettings.json",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\appsettings.json",
+              "RelativeToolTip": "QuanLyKhachSan\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T08:44:07.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanLyKhachSan",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\QuanLyKhachSan.csproj",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\QuanLyKhachSan.csproj",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Dotnet\\QuanLyKhachSan\\QuanLyKhachSan\\QuanLyKhachSan.csproj",
+              "RelativeToolTip": "QuanLyKhachSan\\QuanLyKhachSan.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T08:42:21.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
